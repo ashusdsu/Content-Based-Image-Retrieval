@@ -1,0 +1,4 @@
+%this is the demonstration of mahalanobis disance 
+x = [2; 3; 4; 5];
+y = [3; 4; 5; 6];
+z = mahal()
