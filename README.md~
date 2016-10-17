@@ -19,7 +19,6 @@ The folder of Image Retrieval consists of few pictures and also the result pictu
  3.  Image Acquisition Toolbox
  4. Signal Processing Toolbox
 * Text Editor: Editplus Version 3.11
-
 ###How to run 
 * Changing the image file path in the matlab file.
 Example :: In the BVLC.m and BDIP.m change the parameter of imshow function to the appropriate image file path.
